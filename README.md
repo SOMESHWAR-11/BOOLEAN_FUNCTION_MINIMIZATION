@@ -3,11 +3,11 @@
 **REG NO : 24006709**
 
 ## EXPERIMENT 2: BOOLEAN FUNCTION MINIMIZATION
-## AIM
+## AIM:
  To implement the given logic function verify its operation in Quartus using Verilog programming.
  F1= A’B’C’D’+AC’D’+B’CD’+A’BCD+BC’D
  F2=xy’z+x’y’z+w’xy+wx’y+wxy
-## EQUIPMENT REQUIRED
+## EQUIPMENTS REQUIRED:
  Hardware – PCs, Cyclone II , USB flasher
  THEORY
  Implementing Boolean functions in Verilog HDL (Hardware Description Language) involves
@@ -16,13 +16,13 @@
  circuit. Use logical operators (&, |, ~, ^) to implement Boolean functions directly. Use built-in gate
  primitives for basic functions. Use University program VWF to verify the functionality of your Verilog
  modules. Create waveform and check outputs against expected results.
-## PROCEDURE
+## PROCEDURE:
  1. Type the program in Quartus software.
  2. Compile and run the program.
  3. Generate the RTL schematic and save the logic diagram.
  4. Create nodes for inputs and outputs to generate the timing diagram.
  5. For different input combinations generate the timing diagram.
-## PROGRAM
+## PROGRAM:
 ![WhatsApp Image 2024-11-14 at 14 02 59 (3)](https://github.com/user-attachments/assets/9e0d2fb1-b5fc-41cc-b3db-24e1db44cb21)
 
 ## TRUTH TABLE:
